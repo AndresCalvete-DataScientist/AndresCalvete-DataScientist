@@ -1,6 +1,6 @@
 <!-- Portada -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AndresCalvete-DataScientist/AndresCalvete-DataScientist/main/assets/banner.png" alt="Andrés Calvete Banner" />
+  <img src="https://raw.githubusercontent.com/AndresCalvete-DataScientist/AndresCalvete-DataScientist/main/assets/banner2.png" alt="Andrés Calvete Banner" />
 </p>
 
 # 👋 ¡Hola! Soy Andrés Calvete
