@@ -1,17 +1,88 @@
-<h1 align="center">Hi 👋, I'm Andres Calvete</h1>
-<h3 align="center">A passionate data scientist and developer from Colombia</h3>
-
-- 🌱 I’m currently learning **Data Science**
-
-- 📫 How to reach me **ascalvete@hotmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/12N1GTlpDoNWHA_dyqwpQlysCAhPbClfg/view?usp=sharing](https://drive.google.com/file/d/12N1GTlpDoNWHA_dyqwpQlysCAhPbClfg/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/andrescalvete/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/andrescalvete/" height="30" width="40" /></a>
+<!-- Portada -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AndresCalvete-DataScientist/AndresCalvete-DataScientist/main/assets/banner.png" alt="Andrés Calvete Banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+# 👋 ¡Hola! Soy Andrés Calvete
 
+🌐 Programando para el mundo desde Bogotá, Colombia.  
+🎓 Ingeniero y desarrollador transicionando a la Ciencia de Datos 📊.  
+💻 Apasionado por el machine learning, el análisis de datos y la visualización interactiva.  
+🚀 Con experiencia en campos como la educación y el E-Learning, el mercado de activos digitales y las industrias petrolífera y energética.  
+📊 Me especializo en desarrollar modelos predictivos, análisis estadísticos y soluciones de visualización en tiempo real.
+
+---
+
+## 🧰 Habilidades Técnicas
+
+**Lenguajes:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+
+**Librerías de Ciencia de datos:**  
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Scipy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly)
+
+**Bases de Datos:**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Frameworks & Herramientas:**  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity&logoColor=white)
+
+---
+
+## 🧠 Proyectos Destacados en Ciencia de Datos
+
+### 🔹 [Beta Bank Model](https://github.com/AndresCalvete-DataScientist/beta-bank-model)
+Modelo predictivo para la retención de clientes en un banco.  
+- ⚙️ Scikit-learn, bosque aleatorio de clasificación, ingeniería de características, métricas F1 y AUC-ROC.
+
+### 🔹 [Crypto Scanner](https://github.com/AndresCalvete-DataScientist/crypto-scanner-demo)  
+Sistema de análisis de oportunidades de trading en tiempo real.  
+- 🧪 Python, Flask, Plotly, React, PostgreSQL, Docker.  
+- 🎥 [Video Demo](https://drive.google.com/file/d/1i6X71N93re9HBWh_Eg69X_fhXsx__i6u/view?usp=sharing)
+
+### 🔹 [Dashboard: Talentos Colombianos en el exterior](https://lookerstudio.google.com/u/0/reporting/c351b829-46c0-4838-bda2-efba722a0e76/page/p_9jzqr5ki1c)
+Estudio estadístico a problematicas gubernamentales.  
+- ⚙️ Microsoft Excel, limpieza de datos, visualización de resultados, Looker Studio.
+
+---
+
+## 🧠 Otros Proyectos Interesantes
+
+### 🔹 [SHINE](https://www.ourstoriesgame.org/)  
+Juego educativo enfocado en accesibilidad creado con Construct 3 y Firebase.  
+- 🎮 Liderazgo de desarrollo, accesibilidad, UX/UI.
+
+### 🔹 [Con Confianza](https://conconfianza.web.app/)  
+Videojuego de E-Learning desarrollado con Unity (C#) y Firebase.
+- 🎮 Arquitectura de videojuegos, bases de datos no relacionales, UX/UI.
+
+---
+
+## 📊 GitHub Proyectos
+
+[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-6-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
+
+---
+
+## 📬 Conéctate conmigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andrescalvete/)
+- 📧 ascalvete@hotmail.com
+
+---
+
+_“Tomar decisiones informadas es mejor que solo tomar decisiones.”_
