@@ -49,7 +49,7 @@
 Modelo predictivo para la retención de clientes en un banco.  
 - ⚙️ Scikit-learn, bosque aleatorio de clasificación, ingeniería de características, métricas F1 y AUC-ROC.
 
-### 🔹 [Crypto Scanner](https://github.com/AndresCalvete-DataScientist/crypto-scanner-demo)  
+### 🔹 [Exploración de Criptomonedas](https://github.com/AndresCalvete-DataScientist/crypto-scanner-demo)  
 Sistema de análisis de oportunidades de trading en tiempo real.  
 - 🧪 Python, Flask, Plotly, React, PostgreSQL, Docker.  
 - 🎥 [Video Demo](https://drive.google.com/file/d/1i6X71N93re9HBWh_Eg69X_fhXsx__i6u/view?usp=sharing)
