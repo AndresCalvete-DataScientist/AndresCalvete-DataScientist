@@ -74,7 +74,7 @@ Videojuego de E-Learning desarrollado con Unity (C#) y Firebase.
 
 ## 📊 GitHub Proyectos
 
-[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-8-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
+[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-10-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
 
 ---
 
