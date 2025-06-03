@@ -45,6 +45,10 @@
 
 ## 🧠 Proyectos Destacados en Ciencia de Datos
 
+### 🔹 [OilyGiant Modelo de Rentabilidad](https://github.com/AndresCalvete-DataScientist/oilfield-profitability-model)
+Predicción de rentabilidad en regiones petroleras usando modelos de regresión y simulación de ingresos.  
+- ⚙️ Scikit-learn, regresión lineal, inteligencia de negocio, bootstrap, métricas RMSE, R2 y MAE.
+
 ### 🔹 [Beta Bank Model](https://github.com/AndresCalvete-DataScientist/beta-bank-model)
 Modelo predictivo para la retención de clientes en un banco.  
 - ⚙️ Scikit-learn, bosque aleatorio de clasificación, ingeniería de características, métricas F1 y AUC-ROC.
@@ -53,10 +57,6 @@ Modelo predictivo para la retención de clientes en un banco.
 Sistema de análisis de oportunidades de trading en tiempo real.  
 - 🧪 Python, Flask, Plotly, React, PostgreSQL, Docker.  
 - 🎥 [Video Demo](https://drive.google.com/file/d/1i6X71N93re9HBWh_Eg69X_fhXsx__i6u/view?usp=sharing)
-
-### 🔹 [Dashboard: Talentos Colombianos en el exterior](https://lookerstudio.google.com/u/0/reporting/c351b829-46c0-4838-bda2-efba722a0e76/page/p_9jzqr5ki1c)
-Estudio estadístico a problematicas gubernamentales.  
-- ⚙️ Microsoft Excel, limpieza de datos, visualización de resultados, Looker Studio.
 
 ---
 
@@ -70,11 +70,15 @@ Juego educativo enfocado en accesibilidad creado con Construct 3 y Firebase.
 Videojuego de E-Learning desarrollado con Unity (C#) y Firebase.
 - 🎮 Arquitectura de videojuegos, bases de datos no relacionales, UX/UI.
 
+### 🔹 [Dashboard: Talentos Colombianos en el exterior](https://lookerstudio.google.com/u/0/reporting/c351b829-46c0-4838-bda2-efba722a0e76/page/p_9jzqr5ki1c)
+Estudio estadístico a problematicas gubernamentales.  
+- ⚙️ Microsoft Excel, limpieza de datos, visualización de resultados, Looker Studio.
+
 ---
 
 ## 📊 GitHub Proyectos
 
-[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-10-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
+[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-11-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
 
 ---
 
