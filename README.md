@@ -56,7 +56,7 @@ Modelo predictivo para la retención de clientes en un banco.
 ### 🔹 [Exploración de Criptomonedas](https://github.com/AndresCalvete-DataScientist/crypto-scanner-demo)  
 Sistema de análisis de oportunidades de trading en tiempo real.  
 - 🧪 Python, Flask, Plotly, React, PostgreSQL, Docker.  
-- 🎥 [Video Demo](https://drive.google.com/file/d/1i6X71N93re9HBWh_Eg69X_fhXsx__i6u/view?usp=sharing)
+- 🎥 [Video Demo](https://drive.google.com/file/d/1aPucHCP8LZVZ_h5lTfnbUGlsokU7VCS2/view?usp=sharing)
 
 ---
 
