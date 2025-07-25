@@ -78,7 +78,7 @@ Estudio estadístico a problematicas gubernamentales.
 
 ## 📊 GitHub Proyectos
 
-[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-11-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
+[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-12-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
 
 ---
 
