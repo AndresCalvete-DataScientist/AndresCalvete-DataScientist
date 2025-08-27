@@ -11,6 +11,10 @@
 🚀 Con experiencia en campos como la educación y el E-Learning, el mercado de activos digitales y las industrias petrolífera y energética.  
 📊 Me especializo en desarrollar modelos predictivos, análisis estadísticos y soluciones de visualización en tiempo real.
 
+Comencé en la industria de videojuegos educativos, un proyecto que unía dos de mis pasiones: la programación y el sembrar conocimiento. Descubrí que la programación no era solo un lenguaje de máquinas, sino una herramienta con el poder de transformar vidas. Ahí entendí que mi propósito es claro: **convertir el conocimiento en una experiencia divertida, accesible y con impacto real**.
+
+Esa chispa me llevó a especializarme en ciencia de datos, un campo que con la evolución de la IA y el machine learning abre posibilidades infinitas para resolver problemas reales. Hoy mi misión profesional es aplicar la ciencia de datos en sectores como educación, energía, salud y más para mejorar la vida de las personas.
+
 ---
 
 ## 🧰 Habilidades Técnicas
@@ -45,13 +49,17 @@
 
 ## 🧠 Proyectos Destacados en Ciencia de Datos
 
+### 🔹 [Predicción de abandono en clientes de Interconnect](https://github.com/AndresCalvete-DataScientist/interconnect-customer-churn-prediction)
+Modelo predictivo para la retención de clientes en el sector de telecomunicaciones.  
+- ⚙️ Scikit-learn, bosque aleatorio de clasificación, XGBoost, ingeniería de características, métricas Recall, F1 y AUC-ROC.
+
+### 🔹 [Clasificación de sentimientos en reseñas de películas con Machine Learning](https://github.com/AndresCalvete-DataScientist/movie-reviews-sentiment-classifier)
+Deep Learning aplicado a NLP capaz de detectar automáticamente críticas negativas en reseñas de películas.
+- ⚙️ NLTK / spaCy, Logistic Regression y LightGBM, tokenización, stopwords, lematización y vectorización (TF-IDF / Bag of Words), BERT.
+
 ### 🔹 [OilyGiant Modelo de Rentabilidad](https://github.com/AndresCalvete-DataScientist/oilfield-profitability-model)
 Predicción de rentabilidad en regiones petroleras usando modelos de regresión y simulación de ingresos.  
-- ⚙️ Scikit-learn, regresión lineal, inteligencia de negocio, bootstrap, métricas RMSE, R2 y MAE.
-
-### 🔹 [Beta Bank Model](https://github.com/AndresCalvete-DataScientist/beta-bank-model)
-Modelo predictivo para la retención de clientes en un banco.  
-- ⚙️ Scikit-learn, bosque aleatorio de clasificación, ingeniería de características, métricas F1 y AUC-ROC.
+- ⚙️ Estadística de riesgo, regresión lineal, inteligencia de negocio, bootstrap, métricas RMSE, R2 y MAE.
 
 ### 🔹 [Exploración de Criptomonedas](https://github.com/AndresCalvete-DataScientist/crypto-scanner-demo)  
 Sistema de análisis de oportunidades de trading en tiempo real.  
@@ -68,7 +76,7 @@ Juego educativo enfocado en accesibilidad creado con Construct 3 y Firebase.
 
 ### 🔹 [Con Confianza](https://conconfianza.web.app/)  
 Videojuego de E-Learning desarrollado con Unity (C#) y Firebase.
-- 🎮 Arquitectura de videojuegos, bases de datos no relacionales, UX/UI.
+- 🎮 Arquitectura de desarrollo, bases de datos no relacionales, UX/UI.
 
 ### 🔹 [Dashboard: Talentos Colombianos en el exterior](https://lookerstudio.google.com/u/0/reporting/c351b829-46c0-4838-bda2-efba722a0e76/page/p_9jzqr5ki1c)
 Estudio estadístico a problematicas gubernamentales.  
@@ -78,7 +86,7 @@ Estudio estadístico a problematicas gubernamentales.
 
 ## 📊 GitHub Proyectos
 
-[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-12-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
+[![Proyectos Públicos](https://img.shields.io/badge/Repositorios%20públicos-13-blue?style=for-the-badge&logo=github)](https://github.com/AndresCalvete-DataScientist?tab=repositories)
 
 ---
 
